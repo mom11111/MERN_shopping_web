@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
+.footer{
+    margin-top:100px;
+    margin-bottom:50px;
+    background-color:rgb(175, 250, 250,0.3) ;
+    text-align:center;
+}
+.footer ul{
+    list-style:none;
+}
+ .footer h3{
+    padding-top:40px;
+    font-weight: bolder;
+}

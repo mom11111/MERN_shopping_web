@@ -1,0 +1,15 @@
+.input{
+    height:50px;
+    margin-top:10px;
+    width:40%;
+    margin:2rem auto;
+    text-align:center;
+}
+h2{
+    border-top:2px solid black;
+    padding-top:10px;
+}
+.addButton{
+    margin-top:20px;
+}
+
